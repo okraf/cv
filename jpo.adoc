@@ -1,0 +1,143 @@
+= Julien *Pollet*
+
+== Ingénieur Cybersécurité
+
+:hide-uri-scheme:
+:encoding: UTF-8
+
+[cols="10,40,10,40", grid="none", frame="none"]
+|===
+|Nationalité :|Française
+|Email :|julien.pollett@gmail.com
+|Age :|27 ans
+|Telephone :|+33 6 75 41 80 52
+|Lieu :|Lannion (22300)
+||
+|===
+
+
+
+=== Formations
+
+[cols="<10,20,50,>.^~", grid="none", frame="none"]
+|===
+|2019 [.red]#-# 2021
+|Université Sorbonne
+|Master Sécurité, Fiabilité et Performance du Numérique [.red]#\|# Mention Bien
+|Paris [.red]#&#8729;# 75 005
+
+|2018 [.red]#-# 2019
+|Université Paris-Sud
+|Licence Sécurité des Réseaux et Systèmes Informatiques
+|Orsay [.red]#&#8729;# 91 400
+
+|2016 [.red]#-# 2018
+|Université Paris-Sud
+|DUT Informatique
+|Orsay [.red]#&#8729;# 91 400
+
+|2014 [.red]#-# 2016
+|Lycée Louis Bascan
+|Baccalauréat STI2D [.red]#\|# Mention Bien
+|Rambouillet [.red]#&#8729;# 78 120
+|===
+
+=== Compétences Informatiques
+
+* Réalisation de projet informatique, de la phase de PoC à l’intégration puis le maintien
+* Création de document de restitution et de présentation (PowerPoint)
+* Représentation visuelle et textuelle du réseau d’un système d’information (Visio, Excel)
+* Veille de vulnérabilité
+* Développement d’applications (C#, Python)
+* Réalisation de scripts orientés administration réseau (Shell, PowerShell)
+* Création, utilisation, administration et gestion des droits d’une base de données (SQL)
+* Investigation dans des logs (Splunk)
+* Traitement d’email de Phishing
+
+=== Expériences Professionnelles
+
+[cols=">10,2,70,>.^~", grid="none", frame="none"]
+|===
+
+|2023 [.red]#-# 2026
+|
+s|[.blue]#*Ingénieur DevOps*# [.red]#-# [.blue]#Advens#
+|Lille [.red]#&#8729;# 59 800||
+||||
+2+a|
+* Industrialisation de processus métier et opérationnel
+** Création de machine virtuel de bout en bout
+** Déploiment de configuration automatisé (Saltstack/cidata/Bash/Python)
+* Design d'architecture de collecte de logs
+** Atelier techniques, design et debugs avec les clients
+** 
+||||
+
+|2022 [.red]#-# 2023
+|
+s|[.blue]#*Développeur Cybersécurité*# [.red]#-# [.blue]#Advens#
+|Lille [.red]#&#8729;# 59 800||
+||||
+2+a|
+* Développement de parseurs de logs
+** Ecriture de script Python 
+** Mapping elascticsearch
+** Connaissances des technologies 
+||||
+
+|2019 [.red]#-# 2021
+|
+s|[.blue]#*Analyste SOC*# [.red]#-# [.blue]#Informatique CDC#
+|Arcueil [.red]#&#8729;# 94 110||
+||||
+2+a|
+* Gestion des incidents de sécurités
+** Responsable de la boîte « Pourriel » du CERT
+** Traitements des incidents de sécurités
+** Veille de vulnérabilité pour le maintien à jour du SI
+** Développement d’applications (Outils du SOC)
+* Intégration de Mitre ATT&CK
+** Réalisation de PoC & Déploiement + Maintien
+** Création d’indicateurs du niveau de maturité du SI
+||||
+
+|2018 [.red]#-# 2019
+|
+s|[.blue]#*Technicien Sécurité Informatique*# [.red]#-# [.blue]#Groupe ADP#
+|Orly [.red]#&#8729;# 94 390||
+||||
+2+a|
+* Cartographie d’un système d’informations industriel (SIV)
+** Centralisation de diverses sources d’informations
+** Création de documents de référence pour l’ANSSI
+** Représentation graphique du système d’information industriel
+* Sécurisation d’un système d’information industriel
+** Force de proposition sur les possibilités 
+||||
+
+|2017 [.red]#-# 2018
+|
+s|[.blue]#*Technicien Informatique*# [.red]#-# [.blue]#DPII Telecom & Services#
+|Pontoise [.red]#&#8729;# 95 300||
+||||
+2+a|
+* Réalisation & maintenance d’applications informatiques en C#
+** Définition de cahiers des charges & Réalisation de documentations
+** Développement d’interfaces utilisateurs & de tâches d’automatisations
+** Ajouts / Améliorations des fonctionnalités d’une application web et de son API
+* Support
+** Traitement de tickets & Répondre aux clients
+||||
+
+|===
+
+=== Centres d'Intérêt
+
+[cols=",", grid="none", frame="none"]
+|===
+a|* Nature
+a|* Reconstitution médiéval 
+a|* Handball
+a|* Escrime médiéval (AMHE)
+|===
+
