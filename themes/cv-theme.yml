@@ -62,17 +62,17 @@ list:
   indent: 10
   item-spacing: 2
   marker-font-color: $brand-red-color
-  marker-font-size: 9
-  marker-offset: 2
+  # marker-font-size: 9
+  # marker-offset: 2
 
-  marker-type: disc
-  marker-type-level-2: none
-  marker-type-level-3: none
+  # marker-type: disc
+  # marker-type-level-2: none
+  # marker-type-level-3: none
 
-  marker:
-    level-1: "•"
-    level-2: "-"
-    level-3: "-"
+  # marker:
+  #   level-1: "•"
+  #   level-2: "-"
+  #   level-3: "-"
 
 footer:
   height: 40

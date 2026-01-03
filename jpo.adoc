@@ -63,11 +63,11 @@ s|[.blue]#*Ingénieur DevOps*# [.red]#-# [.blue]#Advens#
 ||||
 2+a|
 * Industrialisation de processus métier et opérationnels autour de la collecte et de l’exploitation de logs
-** Conception et déploiement end-to-end d’environnements dédiés à la collecte (machines virtuelles)
-** Automatisation du provisioning et du déploiement de configuration (SaltStack, cloud-init, Bash, Python)
+** [.red]#-# Conception et déploiement end-to-end d’environnements dédiés à la collecte (machines virtuelles)
+** [.red]#-# Automatisation du provisioning et du déploiement de configuration (SaltStack, cloud-init, Bash, Python)
 * Design d’architectures orientés logs et collectes (Des sources aux puits de logs)
-** Ateliers techniques avec les clients : cadrage, design, debug
-** Rédaction et mise à jour de la documentation technique
+** [.red]#-# Ateliers techniques avec les clients : cadrage, design, debug
+** [.red]#-# Rédaction et mise à jour de la documentation technique
 ||||
 
 |2022 [.red]#-# 2023
@@ -77,8 +77,8 @@ s|[.blue]#*Développeur Cybersécurité*# [.red]#-# [.blue]#Advens#
 ||||
 2+a|
 * Développement de parseurs de logs
-** Normalisation de logs multi-éditeurs pour unifier les formats
-** Définition de mappings Elasticsearch pour structurer et exploiter la donnée
+** [.red]#-# Normalisation de logs multi-éditeurs pour unifier les formats
+** [.red]#-# Définition de mappings Elasticsearch pour structurer et exploiter la donnée
 ||||
 
 |2019 [.red]#-# 2021
@@ -88,13 +88,13 @@ s|[.blue]#*Analyste SOC*# [.red]#-# [.blue]#Informatique CDC#
 ||||
 2+a|
 * Gestion des incidents de sécurité
-** Responsable de la boîte « Pourriel » du CERT
-** Traitement des incidents de sécurité
-** Veille de vulnérabilités pour le maintien à jour du SI
-** Développement d’applications (outils du SOC)
+** [.red]#-# Responsable de la boîte « Pourriel » du CERT
+** [.red]#-# Traitement des incidents de sécurité
+** [.red]#-# Veille de vulnérabilités pour le maintien à jour du SI
+** [.red]#-# Développement d’applications (outils du SOC)
 * Intégration de MITRE ATT&CK
-** Réalisation de PoC, déploiement et maintien
-** Création d’indicateurs du niveau de maturité du SI
+** [.red]#-# Réalisation de PoC, déploiement et maintien
+** [.red]#-# Création d’indicateurs du niveau de maturité du SI
 ||||
 
 |2018 [.red]#-# 2019
@@ -104,11 +104,11 @@ s|[.blue]#*Technicien Sécurité Informatique*# [.red]#-# [.blue]#Groupe ADP#
 ||||
 2+a|
 * Cartographie d’un système d’information industriel (SIV)
-** Centralisation de diverses sources d’informations
-** Création de documents de référence pour l’ANSSI
-** Représentation graphique du système d’information industriel
+** [.red]#-# Centralisation de diverses sources d’informations
+** [.red]#-# Création de documents de référence pour l’ANSSI
+** [.red]#-# Représentation graphique du système d’information industriel
 * Sécurisation d’un système d’information industriel
-** Force de proposition sur les possibilités
+** [.red]#-# Force de proposition sur les possibilités
 ||||
 
 |2017 [.red]#-# 2018
@@ -118,11 +118,11 @@ s|[.blue]#*Technicien Informatique*# [.red]#-# [.blue]#DPII Telecom & Services#
 ||||
 2+a|
 * Réalisation et maintenance d’applications informatiques en C#
-** Définition de cahiers des charges et réalisation de documentation
-** Développement d’interfaces utilisateurs et de tâches d’automatisation
-** Ajouts/améliorations de fonctionnalités d’une application web et de son API
+** [.red]#-# Définition de cahiers des charges et réalisation de documentation
+** [.red]#-# Développement d’interfaces utilisateurs et de tâches d’automatisation
+** [.red]#-# Ajouts/améliorations de fonctionnalités d’une application web et de son API
 * Support
-** Traitement de tickets et réponse aux clients
+** [.red]#-# Traitement de tickets et réponse aux clients
 ||||
 
 |===
