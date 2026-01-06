@@ -49,7 +49,7 @@ Modalités [.red]#:# Présentiel à Rennes OK et disponible par semaines pleines
 * Infrastructure/virtualisation [.red]#:# Proxmox, VMware, oVirt
 * Observabilité [.red]#:# syslog, Grafana, Redis
 * Développement [.red]#:# Python, Bash, SQL, C#
-* Cybersécurité [.red]#:# veille vulnérabilités/CVE, guides de l’ANSSI, sensibilisation des utilisateurs
+* Cybersécurité [.red]#:# veille vulnérabilités/CVE, guides de l'ANSSI, sensibilisation des utilisateurs
 
 === Expériences professionnelles
 
@@ -62,11 +62,12 @@ s|[.blue]#*Ingénieur DevOps*# [.red]#-# [.blue]#Advens#
 |Lille [.red]#&#8729;# 59 800||
 ||||
 2+a|
-* Industrialisation de processus métier et opérationnels autour de la collecte et de l’exploitation de logs
-** [.red]#-# Conception et déploiement end-to-end d’environnements dédiés à la collecte (machines virtuelles)
-** [.red]#-# Automatisation du provisioning et du déploiement de configuration (SaltStack, cloud-init, Bash, Python)
-* Design d’architectures orientés logs et collectes (Des sources aux puits de logs)
-** [.red]#-# Ateliers techniques avec les clients : cadrage, design, debug
+* Industrialisation de processus métier et opérationnels autour de la collecte et de l'exploitation de logs
+** [.red]#-# Conception et déploiement de bout en bout d'environnements dédiés à la collecte (machines virtuelles, Ubuntu, FreeBSD)
+** [.red]#-# Automatisation du provisioning et du déploiement de configurations (SaltStack, cloud-init, Bash, Python)
+** [.red]#-# Environnements de production cloud et on-premise
+* Conception d'architectures de collecte pour l'onboarding des clients
+** [.red]#-# Ateliers techniques avec les clients : cadrage, conception, débogage
 ** [.red]#-# Rédaction et mise à jour de la documentation technique
 ||||
 
@@ -91,10 +92,10 @@ s|[.blue]#*Analyste SOC*# [.red]#-# [.blue]#Informatique CDC#
 ** [.red]#-# Responsable de la boîte « Pourriel » du CERT
 ** [.red]#-# Traitement des incidents de sécurité
 ** [.red]#-# Veille de vulnérabilités pour le maintien à jour du SI
-** [.red]#-# Développement d’applications (outils du SOC)
+** [.red]#-# Développement d'applications (outils du SOC)
 * Intégration de MITRE ATT&CK
 ** [.red]#-# Réalisation de PoC, déploiement et maintien
-** [.red]#-# Création d’indicateurs du niveau de maturité du SI
+** [.red]#-# Création d'indicateurs du niveau de maturité du SI
 ||||
 
 |2018 [.red]#-# 2019
@@ -103,11 +104,11 @@ s|[.blue]#*Technicien Sécurité Informatique*# [.red]#-# [.blue]#Groupe ADP#
 |Orly [.red]#&#8729;# 94 390||
 ||||
 2+a|
-* Cartographie d’un système d’information industriel (SIV)
-** [.red]#-# Centralisation de diverses sources d’informations
-** [.red]#-# Création de documents de référence pour l’ANSSI
-** [.red]#-# Représentation graphique du système d’information industriel
-* Sécurisation d’un système d’information industriel
+* Cartographie d'un système d'information industriel (SIV)
+** [.red]#-# Centralisation de diverses sources d'informations
+** [.red]#-# Création de documents de référence pour l'ANSSI
+** [.red]#-# Représentation graphique du système d'information industriel
+* Sécurisation d'un système d'information industriel
 ** [.red]#-# Force de proposition sur les possibilités
 ||||
 
@@ -117,17 +118,17 @@ s|[.blue]#*Technicien Informatique*# [.red]#-# [.blue]#DPII Telecom & Services#
 |Pontoise [.red]#&#8729;# 95 300||
 ||||
 2+a|
-* Réalisation et maintenance d’applications informatiques en C#
+* Réalisation et maintenance d'applications informatiques en C#
 ** [.red]#-# Définition de cahiers des charges et réalisation de documentation
-** [.red]#-# Développement d’interfaces utilisateurs et de tâches d’automatisation
-** [.red]#-# Ajouts/améliorations de fonctionnalités d’une application web et de son API
+** [.red]#-# Développement d'interfaces utilisateurs et de tâches d'automatisation
+** [.red]#-# Ajouts/améliorations de fonctionnalités d'une application web et de son API
 * Support
 ** [.red]#-# Traitement de tickets et réponse aux clients
 ||||
 
 |===
 
-=== Centres d’intérêt
+=== Centres d'intérêt
 
 [cols=",", grid="none", frame="none"]
 |===
