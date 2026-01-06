@@ -1,0 +1,41 @@
+= Julien *Pollet*
+
+== DevOps [.red]#-# Cybersécurité
+
+:hide-uri-scheme:
+:encoding: UTF-8
+
+[cols="10,40,10,40", grid="none", frame="none"]
+|===
+|Nationalité [.red]#:#|Française
+|Email [.red]#:#|julien@perceval.sh
+|Âge [.red]#:#|27 ans (05/09/1998)
+|Téléphone [.red]#:#|+33 6 75 41 80 52
+|Résidence [.red]#:#|Lannion (22300)
+|Site web [.red]#:#|www.perceval.sh
+|===
+
+Modalités [.red]#:# Présentiel à Rennes OK et disponible par semaines pleines (lun.-jeu./ven.)
+
+
+=== Lettre de motivation
+
+
+À [Ville], le {docdate}
+
+À l’attention de [Madame / Monsieur] [Nom du recruteur] +
+[Nom de l’entreprise] +
+[Adresse de l’entreprise]
+
+
+[.blue]#*Objet*# [.red]#:# Candidature au poste d’Ingénieur DevOps / Cybersécurité
+
+Madame, Monsieur,
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis bibendum purus, sit amet tempor nisl pharetra in. Nam sapien nisi, porttitor nec aliquam at, malesuada ac nisi. In non efficitur sem. Proin dapibus consectetur ligula non lacinia. Maecenas finibus, diam tincidunt lacinia vulputate, augue metus sagittis purus, ut eleifend nunc odio eget metus. Donec ornare lorem elit, id rutrum sem viverra ac. Curabitur consequat in tortor in imperdiet. Maecenas volutpat tortor nec ante rutrum, sit amet tincidunt leo imperdiet. Donec pretium congue tempus. Vestibulum quis velit neque. In mattis ex non tristique scelerisque. Praesent quam lacus, tincidunt a sodales et, blandit ac lorem. Mauris maximus sit amet dolor ac ultricies.
+
+Nulla aliquam maximus leo et elementum. Vivamus dignissim iaculis nisl, id posuere ligula placerat blandit. Vestibulum a odio non sapien dignissim finibus at eu turpis. Nulla rhoncus molestie turpis eget efficitur. Nulla ornare tempus pulvinar. Quisque iaculis leo a porttitor scelerisque. Aenean porta eget justo non gravida. Fusce eleifend dapibus orci, id volutpat nunc volutpat pulvinar. Duis imperdiet purus sit amet leo bibendum dictum. Sed feugiat lacus vulputate, convallis libero ac, condimentum dui. Etiam molestie nunc non elit blandit aliquet. Vestibulum lobortis massa ut leo laoreet molestie. Phasellus sagittis cursus nibh, finibus gravida ex eleifend eu. Sed est diam, convallis ac venenatis eu, tincidunt ut nulla.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Julien Pollet
